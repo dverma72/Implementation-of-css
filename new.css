@@ -1,0 +1,41 @@
+.first{
+border: 2px solid red;
+width: 100%;
+height: 100%;
+min-height: 460px;
+margin-top: 30px;
+
+margin-bottom: 60px;
+
+}
+h2{
+    text-align: center;
+}
+.a{
+    border: 2px solid black;
+ 
+    grid-column: 1/3;
+    min-height: 200px;
+    margin-left: auto ;
+}
+.b{
+    border: 2px solid black;
+ 
+    grid-column: 1/3;
+    min-height: 200px;
+    margin-left: auto ;
+
+
+}
+.c{
+        border: 2px solid black;
+       
+        grid-column: 1/3;
+        min-height: 200px;
+        margin-left: auto ;
+        left: auto;
+        right: auto;
+}
+.second{
+    display: grid;
+}

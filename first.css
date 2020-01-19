@@ -1,0 +1,92 @@
+.first{
+    border: 2px solid black;
+    padding:25px;
+    width: 90%;
+    margin-top: 20px;
+    margin-right:40px ;
+    text-align: left;
+    text-transform: initial;
+    text-decoration: underline blue solid;
+    margin: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
+    background-image: url(tony.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+
+}
+ .top{
+     border: 5px solid red;
+      float: left;
+      width: 50%;
+ }
+h1{ 
+    text-align: center;
+    text-decoration: overline red dotted;
+    text-shadow: -8px -8px 14px black  ,6px 6px 6px  red  ;
+}
+.third{
+    border: 2px solid red;
+    padding:25px;
+    width: 90%;
+    margin-top: 20px;
+    margin-right:40px ;
+    margin: 20px;
+    white-space: pre;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    writing-mode: vertical-rl;
+    
+}
+#second{
+    border: 2px solid black;
+    padding: 25px;
+    width: 40%;
+    margin-right: 20px;
+    text-align: left;
+    text-align-last: auto;
+    text-transform:uppercase;
+    text-indent: 100px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    text-decoration: underline red wavy;
+    float: right;
+    word-wrap: break-word;
+    
+}
+ul{
+    list-style-type: circle;
+    list-style-position: inside ;
+    list-style-image: url(right.png);
+}
+ol{
+list-style-type: lower-alpha;
+list-style-position: outside;
+
+
+}
+.list{
+    border: 8px dotted   blue;
+    width: 50%;
+  float: left;
+  margin-bottom: 20px;
+  background-image:  linear-gradient(rgb(238, 29, 64),rgb(85, 5, 85));
+     
+}
+
+
+.bg{
+    padding: 25px;
+    margin-right:30px;
+    margin-bottom: 25px; 
+    border: 5px solid gold;
+    width: 500px;
+    height: 400px;
+    background-image: url(tony.jpg);
+    float: right;
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+   
+}
